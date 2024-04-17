@@ -4,7 +4,6 @@
 - ⚡ I love to work with all things tech, and I am a huge fan of Movies! Feel free to reach out!
 
   ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-fealy/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/joel.abitzen@gmail.com-gray?style=for-the-badge&logoColor=white)
 
